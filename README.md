@@ -3,6 +3,7 @@
 ## *[16,21,11,8,12,22]* dizisinin Merge Sort türüne göre aşamaları:
 
 <div style="text-align: center;">
+
                                                  [16,21,11] [8,12,22]
                                                [16] [21,11] [8,12] [22]
                                              [16] [21] [11] [8] [12] [22]
@@ -15,8 +16,10 @@
 
 ---
 > 2^x=n
+
 > n=logn 
-   > O(nlogn)
+
+> O(nlogn)
 ---
 
 [Patika.dev](https://www.patika.dev/tr)
